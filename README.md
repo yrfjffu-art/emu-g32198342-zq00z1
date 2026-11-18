@@ -1,2 +1,3 @@
-# emu-g32198342-zq00z1
-FHL Calculator · Android build by RepoForge
+# FHL Calculator
+
+Emulator preview of an APK by RepoForge. Screenshots and the permission state are on the Releases page.
